@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 # Movie-Search-API-V1
 USES MovieDB (TMDB) API to fetch movies.
+
+You have to get the API KEY from the MovieDB (TMDB)
+Link: https://www.themoviedb.org/documentation/api
 =======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
